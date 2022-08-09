@@ -14,4 +14,4 @@ With this project we had to implement the localstorage api and use it to store a
 
 ## Website Url
 
-[Weekly Planner Link](https://carlbergquist.github.io/code-refactor/)
+[Weekly Planner Link](https://carlbergquist.github.io/Weekly-Planner/)
